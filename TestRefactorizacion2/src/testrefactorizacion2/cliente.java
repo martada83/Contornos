@@ -9,14 +9,10 @@ package testrefactorizacion2;
  *
  * @author Marta
  */
-public class TestRefactorizacion2 {
+class cliente {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        cliente c=new cliente("IES de Rodeira");
+    cliente(String ies_de_Rodeira) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
